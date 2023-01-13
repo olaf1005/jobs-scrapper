@@ -1,6 +1,6 @@
 # Jobs-Web-Scraper
 
-A Python Web Scraper to get the job availability details with the specified skills(or)designation and the location
+A Python Web Scraper to get the job posts availability details with the specified skills(or)designation and the location
 
 # Python librabries
 
